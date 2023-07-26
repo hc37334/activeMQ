@@ -6,4 +6,5 @@ public class DeletedLater {
 	boolean isTest;
 	boolean isPushFromLocal;
 	boolean isPushFromLocal3;
+	boolean isUpdateFromRemote;
 }

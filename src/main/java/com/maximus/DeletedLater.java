@@ -37,4 +37,9 @@ public class DeletedLater {
 	public void setUpdateFromRemote(boolean isUpdateFromRemote) {
 		this.isUpdateFromRemote = isUpdateFromRemote;
 	}
+	@Override
+	public String toString() {
+		return "DeletedLater [test=" + test + ", isTest=" + isTest + ", isPushFromLocal=" + isPushFromLocal
+				+ ", isPushFromLocal3=" + isPushFromLocal3 + ", isUpdateFromRemote=" + isUpdateFromRemote + "]";
+	}
 }

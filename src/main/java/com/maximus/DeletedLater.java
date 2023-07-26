@@ -7,6 +7,8 @@ public class DeletedLater {
 	boolean isPushFromLocal;
 	boolean isPushFromLocal3;
 	boolean isUpdateFromRemote;
+	boolean isTestFatch;
+	
 	public String getTest() {
 		return test;
 	}

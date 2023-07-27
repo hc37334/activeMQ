@@ -9,7 +9,7 @@ public class DeletedLater {
 	boolean isUpdateFromRemote;
 	boolean isTestFatch;
 	boolean isTestFatch2;
-	boolean fetchIssue2;
+	
 	
 	
 	public String getTest() {

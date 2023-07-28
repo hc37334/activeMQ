@@ -10,7 +10,7 @@ public class DeletedLater {
 	boolean isTestFatch;
 	boolean isTestPull;
 	boolean isTestPushWithSSH;
-	
+	boolean isTestPullWithSSH;
 	
 	public String getTest() {
 		return test;

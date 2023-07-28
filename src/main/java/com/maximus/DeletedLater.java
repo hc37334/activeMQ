@@ -12,6 +12,8 @@ public class DeletedLater {
 	boolean isTestPushWithSSH;
 	boolean isTestPullWithSSH;
 	
+	boolean isInDevBranch;
+	
 	public String getTest() {
 		return test;
 	}

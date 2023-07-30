@@ -3,9 +3,11 @@ package com.maximus;
 public class DeletedLater {
 	
 
-	boolean isInDevBranch;
-	boolean isInDevLocalToMasterBranch;
-	boolean chnageInBranch2;
+	String test;
+	boolean isUpdateFromRemote;
+	boolean isTestFatch;
+
+
 	
 	public String getTest() {
 		return test;

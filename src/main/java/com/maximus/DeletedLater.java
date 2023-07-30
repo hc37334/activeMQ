@@ -13,6 +13,7 @@ public class DeletedLater {
 	boolean isTestPullWithSSH;
 	boolean isInDevBranch;
 	boolean isInDevLocalToMasterBranch;
+	boolean isTestFastForward;
 	
 	public String getTest() {
 		return test;

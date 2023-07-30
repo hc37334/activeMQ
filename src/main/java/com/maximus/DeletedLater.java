@@ -5,7 +5,7 @@ public class DeletedLater {
 
 	boolean isInDevBranch;
 	boolean isInDevLocalToMasterBranch;
-	boolean chnageInBranch;
+	boolean chnageInBranch2;
 	
 	public String getTest() {
 		return test;

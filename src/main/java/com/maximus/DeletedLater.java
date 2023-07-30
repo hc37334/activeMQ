@@ -3,9 +3,6 @@ package com.maximus;
 public class DeletedLater {
 	
 	String test;
-	boolean isTest;
-	boolean isPushFromLocal;
-	boolean isPushFromLocal3;
 	boolean isUpdateFromRemote;
 	boolean isTestFatch;
 	boolean isTestPull;
@@ -15,6 +12,7 @@ public class DeletedLater {
 	boolean isInDevLocalToMasterBranch;
 	boolean isTestFastForward;
 	boolean isTestThreeWayMergeBranch;
+	
 	
 	public String getTest() {
 		return test;

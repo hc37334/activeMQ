@@ -15,6 +15,8 @@ public class DeletedLater {
 	boolean isInDevLocalToMasterBranch;
 	boolean isTestFastForward;
 	boolean isThrssWayMergeInMaster;
+	boolean isTestThreeWayMergeBranch;
+
 	
 	public String getTest() {
 		return test;

@@ -3,12 +3,7 @@ package com.maximus;
 public class DeletedLater {
 	
 
-	String test;
-	boolean isUpdateFromRemote;
-	boolean isTestFatch;
-	boolean testConflickOnLocal;
-	boolean chnageInLocal;
-    boolean editInRemote;
+	boolean testMergeFromDevLocal;
 
 
 	

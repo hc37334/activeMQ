@@ -3,8 +3,6 @@ package com.maximus;
 public class DeletedLater {
 	
 
-	boolean rebase2;
-
 	boolean r1;
 	boolean r2;
 	string mr1;

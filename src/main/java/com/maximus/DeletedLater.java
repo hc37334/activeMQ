@@ -4,7 +4,7 @@ public class DeletedLater {
 	
 
 	boolean testMergeConflictFromMaster;
-	
+	boolean testrebaseonmaster;
 
 
 	

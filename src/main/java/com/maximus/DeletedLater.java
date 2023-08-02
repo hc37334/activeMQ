@@ -3,7 +3,8 @@ package com.maximus;
 public class DeletedLater {
 	
 
-	boolean rebaseOnMaster;
+	string mr1;
+	string mr2;
 
 
 	

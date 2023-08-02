@@ -8,6 +8,8 @@ public class DeletedLater {
 	boolean isTestFatch;
 	boolean testConflickOnLocal;
 	boolean chnageInLocal;
+    boolean editInRemote;
+
 
 	
 	public String getTest() {

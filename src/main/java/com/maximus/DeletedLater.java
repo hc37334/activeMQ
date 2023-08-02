@@ -4,6 +4,8 @@ public class DeletedLater {
 	
 
 	boolean testMergeConflictFromMaster;
+	boolean testMergeFromDevLocal;
+
 
 	
 	public String getTest() {

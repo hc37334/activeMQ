@@ -5,6 +5,8 @@ public class DeletedLater {
 
 	boolean rebase2;
 
+	boolean r1;
+	boolean r2;
 	string mr1;
 	string mr2;
 	string mr3;

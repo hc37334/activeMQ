@@ -3,9 +3,11 @@ package com.maximus;
 public class DeletedLater {
 	
 
+
 	string mr1;
 	string mr2;
 	string mr3;
+
 
 	
 	public String getTest() {

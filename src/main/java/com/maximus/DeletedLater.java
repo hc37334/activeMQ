@@ -3,8 +3,7 @@ package com.maximus;
 public class DeletedLater {
 	
 
-	boolean testMergeConflictFromMaster;
-	boolean testrebaseonmaster;
+	boolean rebaseOnMaster;
 
 
 	

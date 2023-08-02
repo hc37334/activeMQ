@@ -7,7 +7,7 @@ public class DeletedLater {
 	boolean isUpdateFromRemote;
 	boolean isTestFatch;
 	boolean testConflickOnLocal;
-
+        boolean editInRemote;
 
 	
 	public String getTest() {

@@ -4,7 +4,7 @@ public class DeletedLater {
 	
 
 	boolean r1;
-	boolean r2;
+	boolean r3;
 
 
 	public String getTest() {

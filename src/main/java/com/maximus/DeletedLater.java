@@ -6,12 +6,6 @@ public class DeletedLater {
 	boolean r1;
 	boolean r2;
 
-	string mr1;
-	string mr2;
-	string mr3;
-
-	boolean r3;
-	boolean r4;
 
 	public String getTest() {
 		return test;
